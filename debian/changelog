@@ -1,3 +1,9 @@
+iphbd (0.0.18) unstable; urgency=low
+
+  * Bump version number so its not the same as the stock package
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Wed, 18 Oct 2017 20:13:03 -0400
+
 iphbd (0.0.17) unstable; urgency=low
 
   * First RE release
